@@ -1,7 +1,8 @@
 <h1 align="center">Hey, I'm Santiago 👋</h1>
 
 <p align="center">
-  Systems Analysis student · Python developer · Looking for my first IT role
+  Systems Analysis student · Python developer · Looking for my first IT role <br/>
+  📍 Paraguay
 </p>
 
 ---
